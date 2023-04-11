@@ -80,3 +80,4 @@ Jika kolom "Null" adalah "YES", itu berarti kolom tersebut diizinkan untuk memil
 
 Jika kolom "Null" adalah "NO", maka kolom tersebut tidak diizinkan untuk memiliki nilai NULL
 ```
+
